@@ -1,0 +1,20 @@
+body {
+	background-color: hsl(200, 32%, 81%);
+}
+p, h1 {
+	font: sans-serif;
+}
+section {
+	border-style: inset;
+	margin-top: 10px;
+	padding: 10px;
+}
+.title {
+	display: inline-block;
+}
+#picture {
+	border-style: solid;
+	border-width: 3px;
+	border-color: hsl(207, 100%, 26%);
+	margin-left: 10em;
+}
